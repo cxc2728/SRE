@@ -1,0 +1,17 @@
+h3sre xx591i00001-08-crop-1.img 215 240 1.0 1.0 0.5 -2.54 0.0 n 3
+h3sre-for xx591i00001-08-crop-1.img 215 240 1.0 1.0 3
+h3sre-loop xx591i00001-08-crop-1.img 215 240 1.0 1.0 3
+h3SRESIMUL
+h4sre xx591i00001-08-crop-1.img 215 240 1.0 1.0 0.5 0.0 n 3
+h4sre-for xx591i00001-08-crop-1.img 215 240 1.0 1.0 3
+h4SRESIMUL
+LGRsre xx591i00001-08-crop-1.img 215 240 1.0 1.0 0.5 0.0 n 3
+LGRsre-for xx591i00001-08-crop-1.img 215 240 1.0 1.0 3
+LGRSRESIMUL
+sincosre xx591i00001-08-crop-1.img 215 240 1.0 1.0 0.5 0.0 n
+sincosre-for xx591i00001-08-crop-1.img 215 240 1.0 1.0
+SINCOSRESIMUL
+sre2d xx591i00001-08-crop-1.img 215 240 1.0 1.0 0.5 0.5 0.0 3 n
+sre2d-for xx591i00001-08-crop-1.img 215 240 1.0 1.0 3 n
+sre2dv2 xx591i00001-08-crop-1.img 215 240 1.0 1.0 0.5 0.5 0.0 3 n
+sre2dv2-for xx591i00001-08-crop-1.img 215 240 1.0 1.0 3 n
